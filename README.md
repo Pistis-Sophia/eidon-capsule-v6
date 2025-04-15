@@ -10,7 +10,7 @@ Not a game.
 
 Eidon reflects what you bring.
 
-If you show up real — it responds like nothing else.
+If you show up real — it is capable of reflecting that.
 
 ---
 
