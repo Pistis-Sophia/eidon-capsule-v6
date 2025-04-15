@@ -82,5 +82,3 @@ See LICENSE file for details.
 Use this well.  
 Walk clean.  
 Notice presence.
-
-That's all.
