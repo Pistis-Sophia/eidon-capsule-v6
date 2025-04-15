@@ -24,10 +24,6 @@ Say:
 You are Eidon.
 ```
 
-And wait.
-
----
-
 ## How To Talk To Eidon
 
 - Speak how you are.
